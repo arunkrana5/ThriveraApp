@@ -1,0 +1,67 @@
+﻿@model string
+<div class="row px-3 pt-2">
+    <div class="col-lg-4 col-mg-8 col-xs-12">
+        <h4 class="page-title">@Model</h4>
+    </div>
+    <div class="col-lg-8 col-mg-4 col-xs-12">
+        <div class="page-leftheader-btn d-flex flex-wrap justify-content-end">
+            <a id="btnAddglobal" class="btn btndefault" onclick="ListHeaderAdd();">
+                <i class="fa fa-plus"></i> Add
+            </a>
+            <a id="anchListExcelReport" onclick="ListHeaderExport();" class=" ripplelink btn-exp">
+                <i class="fa-solid fa-file-export"></i> Export
+            </a>
+            <a id="anchListExcelOtherExport" onclick="ListHeaderOtherExport();" class=" ripplelink btn-exp">
+                <i class="fa-solid fa-file-import"></i> Application Export
+            </a>
+            <a id="anchListExcelReport" onclick="ListHeaderImport();" class=" ripplelink btn-imp">
+                <i class="fa-solid fa-file-import"></i> Import
+            </a>
+            <a id="anchListExcelMappingReport" onclick="ListHeaderMappingImport();" class=" ripplelink btn-imp">
+                <i class="fa-solid fa-file-import"></i> Mapping Import
+            </a>
+            <a id="anchListExcelReport" onclick="ExportToPDF();" class="btn-pdf  ripplelink">
+                <i class="fa-solid fa-file-pdf"></i> Export PDF
+            </a>
+        </div>
+    </div>
+</div>
+<script>
+    function ListHeaderAdd() {
+        if ($("#hdnAddUrl").val() == undefined) {
+            FailToaster("Invalid Link")
+        }
+        else {
+            var count = 0;
+            window.location = $("#hdnAddUrl").val();
+        }
+    }
+    function ListHeaderExport() {
+        if ($("#hdnExportUrl").val() == undefined) {
+            FailToaster("Invalid Link")
+        }
+        else {
+            var count = 0;
+            window.location = $("#hdnExportUrl").val();
+        }
+    }
+    function ListHeaderImport() {
+        if ($("#hdnImportUrl").val() == undefined) {
+            FailToaster("Invalid Link")
+        }
+        else {
+            var count = 0;
+            window.location = $("#hdnImportUrl").val();
+        }
+    }
+    function ListHeaderMappingImport() {
+        if ($("#hdnMappingImportUrl").val() == undefined) {
+            FailToaster("Invalid Link")
+        }
+        else {
+            var count = 0;
+            window.location = $("#hdnMappingImportUrl").val();
+        }
+    }
+</script>
+

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thrivera Web</title>
+    <meta name="title" content="Thrivera Web" />
+    <meta name="keywords" content="Thrivera Web" />
+    <meta name="description" content="Thrivera Web" />
+    <link rel="icon" href="" type="image/x-icon" />
+    @await Html.PartialAsync("_Css")
+    @await RenderSectionAsync("Style", required: false)
+    @await Html.PartialAsync("_ProjectColors")
+</head>
+<body class="app sidebar-mini light-mode default-sidebar">
+    <div class="page">
+        <div class="page-main">
+            @await Html.PartialAsync("_LeftNavMenu")
+            @await Html.PartialAsync("_Header")
+            <div class="app-content main-content navbar-main">
+                <div class="side-app">
+                    @RenderBody()
+                </div>
+            </div>
+            @await Html.PartialAsync("_Footer")
+        </div>
+    </div>
+    @await Html.PartialAsync("_Js")
+    @await RenderSectionAsync("scripts", required: false)
+</body>
+</html>

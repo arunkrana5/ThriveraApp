@@ -1,0 +1,78 @@
+﻿<div class="app-header header top-header">
+    <div class="container-fluid">
+        <div class="d-flex align-items-sm-center align-items-md-center">
+            <a class="header-brand" href="#">
+                <img src="/assets/design/images/brand/logo.png" class="header-brand-img desktop-lgo" alt="Thrivera">
+                <img src="/assets/design/images/brand/logo1.png" class="header-brand-img dark-logo" alt="Thrivera">
+                <img src="/assets/design/images/brand/favicon.png" class="header-brand-img mobile-logo" alt="Thrivera">
+            </a>
+            <div class="dropdown side-nav">
+                <div class="app-sidebar__toggle" data-toggle="sidebar">
+                    <a class="open-toggle" href="#">
+                        <svg class="header-icon mt-1" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0V0z" fill="none" /><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z" /></svg>
+                    </a>
+                    <a class="close-toggle" href="#">
+                        <svg class="header-icon mt-1" xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                    </a>
+                </div>
+            </div>
+            <div class="d-flex order-lg-2 ml-auto logocenter">
+                <a href="#">
+                    <img src="@Url.Content("~/assets/design/images/" + ViewBag.CompanyCode + ".png")" />
+                </a>
+            </div>
+            <div class="d-flex order-lg-2 ml-auto">
+                <div class="dropdown header-fullscreen pl-5">
+                    <a class="nav-link icon full-screen-link p-0" id="fullscreen-button">
+                        <svg class="header-icon" x="1008" y="1248" viewBox="0 0 24 24" height="100%" width="100%" preserveAspectRatio="xMidYMid meet" focusable="false">
+                            <path d="M7,14 L5,14 L5,19 L10,19 L10,17 L7,17 L7,14 Z M5,10 L7,10 L7,7 L10,7 L10,5 L5,5 L5,10 Z M17,17 L14,17 L14,19 L19,19 L19,14 L17,14 L17,17 Z M14,5 L14,7 L17,7 L17,10 L19,10 L19,5 L14,5 Z"></path>
+                        </svg>
+                    </a>
+                </div>
+                <div class="dropdown profile-dropdown" id="profile-section">
+                    <div class="nav-link pr-0 pl-1 py-0 leading-none  d-flex  profile-section" data-toggle="dropdown">
+                        <div>
+                            <a>
+                                <span class="avatar avatar-md brround">
+                                    <img class="avatar-xl rounded-circle mb-1" src="/assets/design/images/NoPhoto_Male.png" />
+                                </span>
+                            </a>
+                        </div>
+                        <div class="pl-3 d-none d-lg-block d-md-block d-xl-block">
+                            <span class="text-center font-weight-bold mx-2 mt-2">@ViewBag.Name</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow animated dropdown-profile2">
+                        <div class="ml-4">
+                            <a href="#" class="dropdown-item user pb-0 ">
+                                @ViewBag.Name
+                            </a>
+                            <span class="text-center user-semi-title">
+                                @ViewBag.RoleName
+                            </span>
+                            <div class="dropdown-divider"></div>
+                        </div>
+                        <a class="dropdown-item d-flex" href="/Profile">
+                            <div class="pl-2">Profile</div>
+                        </a>
+                        <a class="dropdown-item d-flex" href="/MyDoc">
+                            <span></span>
+                            <div class="pl-2">My Doc</div>
+                        </a>
+                        <a class="dropdown-item d-flex" href="/ChangePassword">
+                            <span></span>
+                            <div class="mt-1 pl-1">Change Password</div>
+                        </a>
+                        <a class="dropdown-item d-flex" href="/Logout">
+                            <span></span>
+                            <div class="mt-1 pl-2">Sign Out</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

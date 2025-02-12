@@ -1,0 +1,11 @@
+D:\ArunSpace\ThriveraApp\Common\bin\Debug\net8.0\Common.deps.json
+D:\ArunSpace\ThriveraApp\Common\bin\Debug\net8.0\Common.dll
+D:\ArunSpace\ThriveraApp\Common\bin\Debug\net8.0\Common.pdb
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\Common.dll
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\refint\Common.dll
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\Common.pdb
+D:\ArunSpace\ThriveraApp\Common\obj\Debug\net8.0\ref\Common.dll
