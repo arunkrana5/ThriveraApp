@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ArunSpace\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj": {}
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj": {}
   },
   "projects": {
-    "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj": {
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ArunSpace\\ThriveraApp\\Common\\obj\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,146 @@
         }
       }
     },
-    "D:\\ArunSpace\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj": {
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ArunSpace\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj",
-        "projectName": "ThriveraApp",
-        "projectPath": "D:\\ArunSpace\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj",
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ArunSpace\\ThriveraApp\\ThriveraApp\\obj\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +222,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj": {
-                "projectPath": "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj"
+              "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj": {
+                "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj"
+              },
+              "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -110,6 +245,89 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj",
+        "projectName": "ThriveraApp",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\ThriveraApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj": {
+                "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj"
+              },
+              "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj": {
+                "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj"
+              },
+              "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\Services.csproj": {
+                "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.jQuery.Unobtrusive.Ajax": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

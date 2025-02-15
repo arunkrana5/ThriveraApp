@@ -1,0 +1,65 @@
+﻿@using Core.Entities
+@model AppUsers.Login
+@{
+    Layout = null;
+    string PageName = "Thrivera";
+}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@PageName </title>
+    <meta name="title" content="@PageName" />
+    <meta name="keywords" content="@PageName" />
+    <meta name="description" content="@PageName" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+    <link rel="icon" href="@Url.Content("~/assets/design/images/brand/favicon.png")" type="image/png" sizes="50x50" media="(prefers-color-scheme: light)" />
+    <link rel="icon" href="@Url.Content("~/assets/design/images/brand/android-chrome-192x192.png")" type="image/png" sizes="50x50" media="(prefers-color-scheme: dark)" />
+    <link href="~/assets/design/css/login.css" rel="stylesheet" />
+    <link href="~/assets/design/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/assets/design/css/skins.css" rel="stylesheet" />
+    <link href="~/assets/design/plugins/fontawesome-free-6.2.0-web/css/all.css" rel="stylesheet" />
+    <link href="~/assets/design/plugins/fontawesome-free-6.2.0-web/css/all.min.css" rel="stylesheet" />
+    @await Html.PartialAsync("_ProjectColors")
+</head>
+<body class="default-sidebar">
+    <div class=" page-content ">
+        <div class="page-single-content">
+            <div class="card-body">
+                <div class="background">
+                    <div class="shape-lg"></div>
+                    <div class="shape-lg"></div>
+                </div>
+                <div class="form-lg" id="login-details">
+                    <div class="text-center">
+                        <img src="~/assets/design/images/brand/favicon.png" alt="logo" width="68px">
+                    </div>
+                    <div class="text-center">
+                        <h3 class="">Login Here</h3>
+                    </div>
+                    <form asp-controller="Account" asp-action="Login">
+                        <div class="form-group">
+                            <label for="username">Username</label>
+                            <input type="text" class="form-control" asp-for="UserID" placeholder="UserID">
+                            <span asp-validation-for="UserID" class="text-red"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="text" class="form-control" asp-for="Password" placeholder="Password">
+                            <span asp-validation-for="Password" class="text-red"></span>
+                        </div>
+                        <div class="mt-2">
+                            <a href="/Account/ForgotPassword" class=" forgot-password ">Forgot password?</a>
+                        </div>
+                        <div class=" submit-div d-flex justify-content-center mt-3">
+                            <button name="Command" value="Submit" class="" type="submit">Log in</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

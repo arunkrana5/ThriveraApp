@@ -1,0 +1,12 @@
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\bin\Debug\net8.0\Core.deps.json
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\bin\Debug\net8.0\Core.dll
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\bin\Debug\net8.0\Core.pdb
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.dll
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\refint\Core.dll
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\Core.pdb
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Core\obj\Debug\net8.0\ref\Core.dll

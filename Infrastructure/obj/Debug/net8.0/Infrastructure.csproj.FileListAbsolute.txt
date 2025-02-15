@@ -1,0 +1,13 @@
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\ArunSpace\MyProjects\Github\ThriveraApp\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

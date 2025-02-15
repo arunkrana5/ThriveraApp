@@ -1,0 +1,54 @@
+﻿@using Common.Helpers
+@using Core.Entities
+@model IList<Masters.List>
+<link href="~/assets/design/css/datatables.bootstrap5.min.css" rel="stylesheet" />
+<div id="main-content">
+    <div class="container-fluid">
+        <input type="hidden" id="hdnAddUrl" name="hdnAddUrl" value="@Url.Action("AddCountry","Masters",new { src = @AppSettings.Encrypt("0") })" />
+        @await Html.PartialAsync("_ListHeader", "Country List")
+        <div class="row clearfix">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="body">
+                        <div class="table-responsive">
+                            <table class="table table-striped js-exportable dataTable table-custom spacing5" id="tbl_country">
+                                <thead>
+                                    <tr>
+                                        <th>S. No.</th>
+                                        <th>Country Code</th>
+                                        <th>Country Name</th>
+                                        <th>Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @{
+                                        int count = 0;
+                                    }
+                                    @foreach (Masters.List item in Model)
+                                    {
+                                        count++;
+                                        <tr>
+                                            <td>@count</td>
+                                            <td>@item.Value</td>
+                                            <td>@item.Name</td>
+                                            <td>@item.GroupName</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#tbl_country').DataTable();
+    });
+</script>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ArunSpace\\ThriveraApp\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\ArunSpace\\ThriveraApp\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ArunSpace\\ThriveraApp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\ArunSpace\\ThriveraApp\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ArunSpace\\ThriveraApp\\Infrastructure\\obj\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

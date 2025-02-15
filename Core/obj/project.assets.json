@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ArunSpace\\ThriveraApp\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\ArunSpace\\ThriveraApp\\Core\\Core.csproj",
+      "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ArunSpace\\ThriveraApp\\Core\\obj\\",
+      "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj": {}
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj": {
+    "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\ArunSpace\\ThriveraApp\\Common\\Common.csproj",
+        "projectPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ArunSpace\\ThriveraApp\\Common\\obj\\",
+        "outputPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

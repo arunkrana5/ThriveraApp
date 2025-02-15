@@ -26,6 +26,7 @@
         </div>
     </div>
     @await Html.PartialAsync("_Js")
+    @await Html.PartialAsync("_ValidationScriptsPartial")
     @await RenderSectionAsync("scripts", required: false)
 </body>
 </html>

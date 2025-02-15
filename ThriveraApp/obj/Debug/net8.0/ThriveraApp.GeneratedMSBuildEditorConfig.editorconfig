@@ -9,75 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ThriveraApp
 build_property.RootNamespace = ThriveraApp
-build_property.ProjectDir = D:\ArunSpace\ThriveraApp\ThriveraApp\
+build_property.ProjectDir = D:\ArunSpace\MyProjects\Github\ThriveraApp\ThriveraApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ArunSpace\ThriveraApp\ThriveraApp
+build_property.MSBuildProjectDirectory = D:\ArunSpace\MyProjects\Github\ThriveraApp\ThriveraApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Home/Dashboard.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Home/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Home/Index.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Home/Privacy.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/Error.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Master/Country.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXENvdW50cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_Css.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_Css.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Dc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_Footer.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_Header.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_Js.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_Js.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Kcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_LeftNavMenu.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_LeftNavMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MZWZ0TmF2TWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_ListHeader.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_ListHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaXN0SGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_PrivateLayout.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_PrivateLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcml2YXRlTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_ProjectColors.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_ProjectColors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9qZWN0Q29sb3JzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/_ViewImports.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/_ViewStart.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ArunSpace/ThriveraApp/ThriveraApp/Views/Shared/_Layout.cshtml]
+[D:/ArunSpace/MyProjects/Github/ThriveraApp/ThriveraApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0tnfyass9l
