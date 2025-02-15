@@ -1,1 +1,48 @@
-.vs/ThriveraApp/FileContentIndex/15ac4222-d463-4fce-aaa6-6ea4d71ec7b6.vsidx
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-netcoreapp*/ 
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+.vs/
+.vscode/
+
+# ASP.NET temporary files
+*.db
+*.bak
+appsettings.json
+appsettings.*.json
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# User-specific files for JetBrains Rider
+.idea/
+
+# Logs
+*.log
+*.dmp
+
+# Visual Studio for Mac
+.vscode/
+.idea/
+.vsconfig
+
+# Npm packages
+node_modules/
+
+# Visual Studio Code settings folder
+.vscode/
+
+# ASP.NET Core Certificate
+https://docs.microsoft.com/en-us/aspnet/core/security/https?view=aspnetcore-5.0#store-the-development-certificate
+$env:ASPNETCORE_ENVIRONMENT
