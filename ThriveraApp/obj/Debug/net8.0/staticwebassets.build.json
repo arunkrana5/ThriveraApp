@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MmofFiMkf46WKaVfervA+nfibzOCj+oqggkEo+sAq+k=",
+  "Hash": "X9aYikxMzP+4RLtEtb8IYrG0fFAjl9zAUtEk9xIO9go=",
   "Source": "ThriveraApp",
   "BasePath": "_content/ThriveraApp",
   "Mode": "Default",
@@ -357,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\design\\css\\dashTL.css"
+    },
+    {
+      "Identity": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\assets\\design\\css\\datatables.css",
+      "SourceId": "ThriveraApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\",
+      "BasePath": "_content/ThriveraApp",
+      "RelativePath": "assets/design/css/datatables.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\design\\css\\datatables.css"
     },
     {
       "Identity": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\assets\\design\\css\\login.css",

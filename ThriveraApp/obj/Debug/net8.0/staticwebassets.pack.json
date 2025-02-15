@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\assets\\design\\css\\dashboardComman.css"
     },
     {
+      "Id": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\assets\\design\\css\\datatables.css",
+      "PackagePath": "staticwebassets\\assets\\design\\css\\datatables.css"
+    },
+    {
       "Id": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\assets\\design\\css\\login.css",
       "PackagePath": "staticwebassets\\assets\\design\\css\\login.css"
     },

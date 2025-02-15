@@ -46,3 +46,8 @@ node_modules/
 # ASP.NET Core Certificate
 https://docs.microsoft.com/en-us/aspnet/core/security/https?view=aspnetcore-5.0#store-the-development-certificate
 $env:ASPNETCORE_ENVIRONMENT
+/.vs
+*.dll
+*.exe
+*.pdb
+*.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThriveraApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc95c45fcac91c3c805f7be13bc879b5d68b8e5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e66445abbf3e88a71df289a793e9ccd47336cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThriveraApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThriveraApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|solutionrelative:thriveraapp\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\views\\shared\\_listheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|solutionrelative:thriveraapp\\views\\shared\\_listheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\wwwroot\\assets\\design\\js\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|solutionrelative:thriveraapp\\wwwroot\\assets\\design\\js\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\views\\master\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|solutionrelative:thriveraapp\\views\\master\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|solutionrelative:thriveraapp\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|solutionrelative:thriveraapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55DB83A5-07B7-44E8-AF9A-BAE56B0FF330}|ThriveraApp\\ThriveraApp.csproj|d:\\arunspace\\myprojects\\github\\thriveraapp\\thriveraapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +66,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datatables.js",
+              "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\assets\\design\\js\\datatables.js",
+              "RelativeDocumentMoniker": "ThriveraApp\\wwwroot\\assets\\design\\js\\datatables.js",
+              "ToolTip": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\wwwroot\\assets\\design\\js\\datatables.js",
+              "RelativeToolTip": "ThriveraApp\\wwwroot\\assets\\design\\js\\datatables.js",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwGEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-15T11:46:29.552Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -66,7 +91,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "_ListHeader.cshtml",
+              "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Views\\Shared\\_ListHeader.cshtml",
+              "RelativeDocumentMoniker": "ThriveraApp\\Views\\Shared\\_ListHeader.cshtml",
+              "ToolTip": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Views\\Shared\\_ListHeader.cshtml",
+              "RelativeToolTip": "ThriveraApp\\Views\\Shared\\_ListHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T10:39:02.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThriveraApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThriveraApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:35:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_LeftNavMenu.cshtml",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Views\\Shared\\_LeftNavMenu.cshtml",
               "RelativeDocumentMoniker": "ThriveraApp\\Views\\Shared\\_LeftNavMenu.cshtml",
@@ -79,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_PrivateLayout.cshtml",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Views\\Shared\\_PrivateLayout.cshtml",
               "RelativeDocumentMoniker": "ThriveraApp\\Views\\Shared\\_PrivateLayout.cshtml",
@@ -92,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Masters.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Entities\\Masters.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Masters.cs",
@@ -105,20 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Country.cshtml",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Views\\Master\\Country.cshtml",
               "RelativeDocumentMoniker": "ThriveraApp\\Views\\Master\\Country.cshtml",
               "ToolTip": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Views\\Master\\Country.cshtml",
               "RelativeToolTip": "ThriveraApp\\Views\\Master\\Country.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-15T10:48:08.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Responses.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Core\\Entities\\Responses.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Responses.cs",
@@ -131,20 +182,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MasterController.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Controllers\\MasterController.cs",
               "RelativeDocumentMoniker": "ThriveraApp\\Controllers\\MasterController.cs",
               "ToolTip": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Controllers\\MasterController.cs",
               "RelativeToolTip": "ThriveraApp\\Controllers\\MasterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T10:41:48.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\appsettings.json",
               "RelativeDocumentMoniker": "ThriveraApp\\appsettings.json",
@@ -157,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ThriveraApp\\Controllers\\AccountController.cs",
@@ -170,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AccountServices.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\Services\\BusinessLogic\\AccountServices.cs",
               "RelativeDocumentMoniker": "Services\\BusinessLogic\\AccountServices.cs",
@@ -183,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ConfigureCoreServices.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Configuration\\ConfigureCoreServices.cs",
               "RelativeDocumentMoniker": "ThriveraApp\\Configuration\\ConfigureCoreServices.cs",
@@ -196,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ArunSpace\\MyProjects\\Github\\ThriveraApp\\ThriveraApp\\Program.cs",
               "RelativeDocumentMoniker": "ThriveraApp\\Program.cs",
